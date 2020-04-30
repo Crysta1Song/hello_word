@@ -1,4 +1,2 @@
 # hello_word
-Hello humans
-
-I'm Crysta1Song, I like coding.
+DI SAN  GE WEN JIAN DE READ ME WENJIAN
