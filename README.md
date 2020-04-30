@@ -1,2 +1,4 @@
 # hello_word
-Just another repository
+Hello humans
+
+I'm Crysta1Song, I like coding.
